@@ -1,7 +1,7 @@
 export const data = {
   profile: {
     id: 1,
-    name: "Ritesh Choudhary",
+    name: "Abhishek Dangi",
     image:
       "https://us.123rf.com/450wm/yellowcrest/yellowcrest0911/yellowcrest091100073/5891555-a-portrait-of-an-indian-boy-against-a-black-background.jpg?ver=6",
     contacts: [
